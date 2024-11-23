@@ -22,11 +22,11 @@ TODO:
 2. text done
 2. a href link done
 4. table  done
-5.  h2, image & taxt 
-6.  h2, image & taxt
-7.  h2, image & taxt
-8.  h2, image & taxt
-9.  h2, image & taxt
+5.  h2, image & taxt  done
+6.  h2, image & taxt done
+7.  h2, image & taxt done
+8.  h2, image & taxt done
+9.  h2, image & taxt done
 10. h2,form submit
 11. how to post vedio
 12. footer
