@@ -27,7 +27,7 @@ TODO:
 7.  h2, image & taxt done
 8.  h2, image & taxt done
 9.  h2, image & taxt done
-10. h2,form submit
-11. how to post vedio
-12. footer
+10. h2,form submit done
+11. how to post vedio done
+12. footer done
 
